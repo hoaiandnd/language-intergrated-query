@@ -4,7 +4,7 @@
 
 **Biểu thức truy vấn** (Query Expression) là một dạng câu lệnh truy vấn, một phần của LINQ. Biểu thức truy vấn LINQ bao gồm nhiều mệnh đề khiến biểu thức trở nên rất giống với các câu truy vấn SQL.
 
-Ở phần [**LINQ Method Syntax**], ta đã tìm hiểu về phương thức mở rộng (Extension Methods), cũng là một phần của LINQ và được gọi là *method syntax* (tạm dịch: cú pháp dùng phương thức).
+Ở phần [**LINQ Method Syntax**](https://github.com/hoaiandnd/language-intergrated-query/blob/main/1_linq_method_syntax.md), ta đã tìm hiểu về phương thức mở rộng (Extension Methods), cũng là một phần của LINQ và được gọi là *method syntax* (tạm dịch: cú pháp dùng phương thức).
 
 Trong nội dung này, ta sẽ tìm hiểu về biểu thức truy vấn, hay còn được biết đến là *query syntax* (tạm dịch: cú pháp truy vấn).
 
